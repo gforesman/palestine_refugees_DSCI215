@@ -9,6 +9,9 @@ unrwaClean <- unrwaFull %>%
 #creating vectors
 female_minor_col <- c("female_0-4", "female_5-11", "female_12-17")
 male_minor_col <- c("male_0-4", "male_5-11", "male_12-17")
+pop_col <- c("female_0-4","female_5-11", "female_12-17","female_18-59", "female_60", "female_total","male_0-4", "male_5-11","male_12-17", "male_18-59","male_60","male_total", "total")
+long_col <- c("female_0-4","female_5-11", "female_12-17","female_18-59", "female_60", "female_total","male_0-4", "male_5-11","male_12-17", "male_18-59","male_60","male_total", "total", "f_minor_all", "m_minor_all")
+
 
 #renaming columns
 unrwaClean <- unrwaClean %>%
@@ -25,10 +28,30 @@ unrwaClean <- unrwaClean %>%
          "male_5-11" = "Male...11",
          "male_12-17" = "Male...12",
          "male_18-59" = "Male...13",
-         "male_60" = "Male...15",
+         "male_60" = "Male...14",
          "male_total"= "Male...15",
          "total" = "Total")
 
+#taking out commas
+unrwaClean <- unrwaClean %>%
+  mutate_all(~sub("[,]{1,}" , "",.)) %>%
+  mutate_all(~sub("[,]{1,}" , "",.))
 
-  mutate(f_minor_total = rowSums(across(female_minor_col)),
-         m_minor_total = rowSums(across(male_minor_col)))
+unrwaClean[pop_col] <- sapply(unrwaClean[pop_col], as.numeric)
+
+#adding new columns for total child
+
+unrwaClean <- unrwaClean %>%
+  mutate(f_minor_all = rowSums(across(female_minor_col)),
+         m_minor_all = rowSums(across(male_minor_col)))
+
+#converting column to same df structure as unhcr 
+unrwaClean_long <- unrwaClean %>%
+  pivot_longer(cols = long_col, 
+               names_to = "population_type",
+               values_to = "population"
+  
+)
+
+#saving csv
+write.csv(unrwaClean_long, "unrwaCleanLong.csv")
