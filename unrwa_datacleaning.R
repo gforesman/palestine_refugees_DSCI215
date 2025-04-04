@@ -50,8 +50,11 @@ unrwaClean_long <- unrwaClean %>%
   pivot_longer(cols = long_col, 
                names_to = "population_type",
                values_to = "population"
-  
 )
+
+#splitting age and gender for convenience depending on graph
+unrwaClean_long[c('gender', 'age')] <- str_split_fixed(unrwaClean_long$population_type, "_", 2)
+
 
 #saving csv
 write.csv(unrwaClean_long, "unrwaDEMO_CleanLong.csv")
