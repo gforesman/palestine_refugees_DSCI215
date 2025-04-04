@@ -1,0 +1,301 @@
+"","year","origin","asylum","population_type","population"
+"1","2019","Palestinian","State of Palestine","female_0-4",115683
+"2","2019","Palestinian","State of Palestine","female_5-11",139189
+"3","2019","Palestinian","State of Palestine","female_12-17",145473
+"4","2019","Palestinian","State of Palestine","female_18-59",620567
+"5","2019","Palestinian","State of Palestine","female_60",124911
+"6","2019","Palestinian","State of Palestine","female_total",1145823
+"7","2019","Palestinian","State of Palestine","male_0-4",122855
+"8","2019","Palestinian","State of Palestine","male_5-11",145568
+"9","2019","Palestinian","State of Palestine","male_12-17",151765
+"10","2019","Palestinian","State of Palestine","male_18-59",644803
+"11","2019","Palestinian","State of Palestine","male_60",108259
+"12","2019","Palestinian","State of Palestine","male_total",1173250
+"13","2019","Palestinian","State of Palestine","total",2319073
+"14","2019","Palestinian","State of Palestine","f_minor_all",400345
+"15","2019","Palestinian","State of Palestine","m_minor_all",420188
+"16","2019","Palestinian","Jordan","female_0-4",47592
+"17","2019","Palestinian","Jordan","female_5-11",126915
+"18","2019","Palestinian","Jordan","female_12-17",144368
+"19","2019","Palestinian","Jordan","female_18-59",640378
+"20","2019","Palestinian","Jordan","female_60",150618
+"21","2019","Palestinian","Jordan","female_total",1109871
+"22","2019","Palestinian","Jordan","male_0-4",51021
+"23","2019","Palestinian","Jordan","male_5-11",132957
+"24","2019","Palestinian","Jordan","male_12-17",149778
+"25","2019","Palestinian","Jordan","male_18-59",673520
+"26","2019","Palestinian","Jordan","male_60",155264
+"27","2019","Palestinian","Jordan","male_total",1162540
+"28","2019","Palestinian","Jordan","total",2272411
+"29","2019","Palestinian","Jordan","f_minor_all",318875
+"30","2019","Palestinian","Jordan","m_minor_all",333756
+"31","2019","Palestinian","Lebanon","female_0-4",12309
+"32","2019","Palestinian","Lebanon","female_5-11",18911
+"33","2019","Palestinian","Lebanon","female_12-17",24259
+"34","2019","Palestinian","Lebanon","female_18-59",137889
+"35","2019","Palestinian","Lebanon","female_60",41404
+"36","2019","Palestinian","Lebanon","female_total",234772
+"37","2019","Palestinian","Lebanon","male_0-4",13048
+"38","2019","Palestinian","Lebanon","male_5-11",19420
+"39","2019","Palestinian","Lebanon","male_12-17",25207
+"40","2019","Palestinian","Lebanon","male_18-59",143734
+"41","2019","Palestinian","Lebanon","male_60",39852
+"42","2019","Palestinian","Lebanon","male_total",241261
+"43","2019","Palestinian","Lebanon","total",476033
+"44","2019","Palestinian","Lebanon","f_minor_all",55479
+"45","2019","Palestinian","Lebanon","m_minor_all",57675
+"46","2019","Palestinian","Syrian Arab Rep.","female_0-4",20520
+"47","2019","Palestinian","Syrian Arab Rep.","female_5-11",30683
+"48","2019","Palestinian","Syrian Arab Rep.","female_12-17",32853
+"49","2019","Palestinian","Syrian Arab Rep.","female_18-59",159376
+"50","2019","Palestinian","Syrian Arab Rep.","female_60",37210
+"51","2019","Palestinian","Syrian Arab Rep.","female_total",280642
+"52","2019","Palestinian","Syrian Arab Rep.","male_0-4",21280
+"53","2019","Palestinian","Syrian Arab Rep.","male_5-11",31736
+"54","2019","Palestinian","Syrian Arab Rep.","male_12-17",34320
+"55","2019","Palestinian","Syrian Arab Rep.","male_18-59",162031
+"56","2019","Palestinian","Syrian Arab Rep.","male_60",32303
+"57","2019","Palestinian","Syrian Arab Rep.","male_total",281670
+"58","2019","Palestinian","Syrian Arab Rep.","total",562312
+"59","2019","Palestinian","Syrian Arab Rep.","f_minor_all",84056
+"60","2019","Palestinian","Syrian Arab Rep.","m_minor_all",87336
+"61","2020","Palestinian","State of Palestine","female_0-4",105194
+"62","2020","Palestinian","State of Palestine","female_5-11",178746
+"63","2020","Palestinian","State of Palestine","female_12-17",142191
+"64","2020","Palestinian","State of Palestine","female_18-59",603306
+"65","2020","Palestinian","State of Palestine","female_60",130714
+"66","2020","Palestinian","State of Palestine","female_total",1160151
+"67","2020","Palestinian","State of Palestine","male_0-4",112185
+"68","2020","Palestinian","State of Palestine","male_5-11",188228
+"69","2020","Palestinian","State of Palestine","male_12-17",148308
+"70","2020","Palestinian","State of Palestine","male_18-59",625375
+"71","2020","Palestinian","State of Palestine","male_60",113996
+"72","2020","Palestinian","State of Palestine","male_total",1188092
+"73","2020","Palestinian","State of Palestine","total",2348243
+"74","2020","Palestinian","State of Palestine","f_minor_all",426131
+"75","2020","Palestinian","State of Palestine","m_minor_all",448721
+"76","2020","Palestinian","Jordan","female_0-4",46782
+"77","2020","Palestinian","Jordan","female_5-11",121108
+"78","2020","Palestinian","Jordan","female_12-17",129893
+"79","2020","Palestinian","Jordan","female_18-59",671495
+"80","2020","Palestinian","Jordan","female_60",158059
+"81","2020","Palestinian","Jordan","female_total",1127337
+"82","2020","Palestinian","Jordan","male_0-4",49836
+"83","2020","Palestinian","Jordan","male_5-11",127504
+"84","2020","Palestinian","Jordan","male_12-17",135313
+"85","2020","Palestinian","Jordan","male_18-59",704507
+"86","2020","Palestinian","Jordan","male_60",162514
+"87","2020","Palestinian","Jordan","male_total",1179674
+"88","2020","Palestinian","Jordan","total",2307011
+"89","2020","Palestinian","Jordan","f_minor_all",297783
+"90","2020","Palestinian","Jordan","m_minor_all",312653
+"91","2020","Palestinian","Lebanon","female_0-4",11425
+"92","2020","Palestinian","Lebanon","female_5-11",21548
+"93","2020","Palestinian","Lebanon","female_12-17",18857
+"94","2020","Palestinian","Lebanon","female_18-59",141078
+"95","2020","Palestinian","Lebanon","female_60",43739
+"96","2020","Palestinian","Lebanon","female_total",236647
+"97","2020","Palestinian","Lebanon","male_0-4",11832
+"98","2020","Palestinian","Lebanon","male_5-11",23037
+"99","2020","Palestinian","Lebanon","male_12-17",19663
+"100","2020","Palestinian","Lebanon","male_18-59",146259
+"101","2020","Palestinian","Lebanon","male_60",42099
+"102","2020","Palestinian","Lebanon","male_total",242890
+"103","2020","Palestinian","Lebanon","total",479537
+"104","2020","Palestinian","Lebanon","f_minor_all",51830
+"105","2020","Palestinian","Lebanon","m_minor_all",54532
+"106","2020","Palestinian","Syrian Arab Rep.","female_0-4",19900
+"107","2020","Palestinian","Syrian Arab Rep.","female_5-11",35730
+"108","2020","Palestinian","Syrian Arab Rep.","female_12-17",31821
+"109","2020","Palestinian","Syrian Arab Rep.","female_18-59",157326
+"110","2020","Palestinian","Syrian Arab Rep.","female_60",39274
+"111","2020","Palestinian","Syrian Arab Rep.","female_total",284051
+"112","2020","Palestinian","Syrian Arab Rep.","male_0-4",20581
+"113","2020","Palestinian","Syrian Arab Rep.","male_5-11",37719
+"114","2020","Palestinian","Syrian Arab Rep.","male_12-17",32895
+"115","2020","Palestinian","Syrian Arab Rep.","male_18-59",159475
+"116","2020","Palestinian","Syrian Arab Rep.","male_60",34009
+"117","2020","Palestinian","Syrian Arab Rep.","male_total",284679
+"118","2020","Palestinian","Syrian Arab Rep.","total",568730
+"119","2020","Palestinian","Syrian Arab Rep.","f_minor_all",87451
+"120","2020","Palestinian","Syrian Arab Rep.","m_minor_all",91195
+"121","2021","Palestinian","State of Palestine","female_0-4",107629
+"122","2021","Palestinian","State of Palestine","female_5-11",179459
+"123","2021","Palestinian","State of Palestine","female_12-17",145814
+"124","2021","Palestinian","State of Palestine","female_18-59",618362
+"125","2021","Palestinian","State of Palestine","female_60",134165
+"126","2021","Palestinian","State of Palestine","female_total",1185429
+"127","2021","Palestinian","State of Palestine","male_0-4",115363
+"128","2021","Palestinian","State of Palestine","male_5-11",189495
+"129","2021","Palestinian","State of Palestine","male_12-17",151435
+"130","2021","Palestinian","State of Palestine","male_18-59",640870
+"131","2021","Palestinian","State of Palestine","male_60",117616
+"132","2021","Palestinian","State of Palestine","male_total",1214779
+"133","2021","Palestinian","State of Palestine","total",2400208
+"134","2021","Palestinian","State of Palestine","f_minor_all",432902
+"135","2021","Palestinian","State of Palestine","m_minor_all",456293
+"136","2021","Palestinian","Jordan","female_0-4",44731
+"137","2021","Palestinian","Jordan","female_5-11",116338
+"138","2021","Palestinian","Jordan","female_12-17",130166
+"139","2021","Palestinian","Jordan","female_18-59",685706
+"140","2021","Palestinian","Jordan","female_60",164242
+"141","2021","Palestinian","Jordan","female_total",1141183
+"142","2021","Palestinian","Jordan","male_0-4",47717
+"143","2021","Palestinian","Jordan","male_5-11",122674
+"144","2021","Palestinian","Jordan","male_12-17",135957
+"145","2021","Palestinian","Jordan","male_18-59",718095
+"146","2021","Palestinian","Jordan","male_60",169163
+"147","2021","Palestinian","Jordan","male_total",1193606
+"148","2021","Palestinian","Jordan","total",2334789
+"149","2021","Palestinian","Jordan","f_minor_all",291235
+"150","2021","Palestinian","Jordan","m_minor_all",306348
+"151","2021","Palestinian","Lebanon","female_0-4",11438
+"152","2021","Palestinian","Lebanon","female_5-11",21407
+"153","2021","Palestinian","Lebanon","female_12-17",18919
+"154","2021","Palestinian","Lebanon","female_18-59",141621
+"155","2021","Palestinian","Lebanon","female_60",44536
+"156","2021","Palestinian","Lebanon","female_total",237921
+"157","2021","Palestinian","Lebanon","male_0-4",11971
+"158","2021","Palestinian","Lebanon","male_5-11",22818
+"159","2021","Palestinian","Lebanon","male_12-17",19882
+"160","2021","Palestinian","Lebanon","male_18-59",146556
+"161","2021","Palestinian","Lebanon","male_60",43528
+"162","2021","Palestinian","Lebanon","male_total",244755
+"163","2021","Palestinian","Lebanon","total",482676
+"164","2021","Palestinian","Lebanon","f_minor_all",51764
+"165","2021","Palestinian","Lebanon","m_minor_all",54671
+"166","2021","Palestinian","Syrian Arab Rep.","female_0-4",19314
+"167","2021","Palestinian","Syrian Arab Rep.","female_5-11",34311
+"168","2021","Palestinian","Syrian Arab Rep.","female_12-17",32907
+"169","2021","Palestinian","Syrian Arab Rep.","female_18-59",159910
+"170","2021","Palestinian","Syrian Arab Rep.","female_60",41183
+"171","2021","Palestinian","Syrian Arab Rep.","female_total",287625
+"172","2021","Palestinian","Syrian Arab Rep.","male_0-4",19886
+"173","2021","Palestinian","Syrian Arab Rep.","male_5-11",36174
+"174","2021","Palestinian","Syrian Arab Rep.","male_12-17",34026
+"175","2021","Palestinian","Syrian Arab Rep.","male_18-59",162024
+"176","2021","Palestinian","Syrian Arab Rep.","male_60",35499
+"177","2021","Palestinian","Syrian Arab Rep.","male_total",287609
+"178","2021","Palestinian","Syrian Arab Rep.","total",575234
+"179","2021","Palestinian","Syrian Arab Rep.","f_minor_all",86532
+"180","2021","Palestinian","Syrian Arab Rep.","m_minor_all",90086
+"181","2022","Palestinian","State of Palestine","female_0-4",108252
+"182","2022","Palestinian","State of Palestine","female_5-11",178911
+"183","2022","Palestinian","State of Palestine","female_12-17",150133
+"184","2022","Palestinian","State of Palestine","female_18-59",633591
+"185","2022","Palestinian","State of Palestine","female_60",141023
+"186","2022","Palestinian","State of Palestine","female_total",1211910
+"187","2022","Palestinian","State of Palestine","male_0-4",115645
+"188","2022","Palestinian","State of Palestine","male_5-11",188995
+"189","2022","Palestinian","State of Palestine","male_12-17",156491
+"190","2022","Palestinian","State of Palestine","male_18-59",657531
+"191","2022","Palestinian","State of Palestine","male_60",123686
+"192","2022","Palestinian","State of Palestine","male_total",1242348
+"193","2022","Palestinian","State of Palestine","total",2454258
+"194","2022","Palestinian","State of Palestine","f_minor_all",437296
+"195","2022","Palestinian","State of Palestine","m_minor_all",461131
+"196","2022","Palestinian","Jordan","female_0-4",42671
+"197","2022","Palestinian","Jordan","female_5-11",112582
+"198","2022","Palestinian","Jordan","female_12-17",130713
+"199","2022","Palestinian","Jordan","female_18-59",697236
+"200","2022","Palestinian","Jordan","female_60",173131
+"201","2022","Palestinian","Jordan","female_total",1156333
+"202","2022","Palestinian","Jordan","male_0-4",45440
+"203","2022","Palestinian","Jordan","male_5-11",118590
+"204","2022","Palestinian","Jordan","male_12-17",136541
+"205","2022","Palestinian","Jordan","male_18-59",730014
+"206","2022","Palestinian","Jordan","male_60",178172
+"207","2022","Palestinian","Jordan","male_total",1208757
+"208","2022","Palestinian","Jordan","total",2365090
+"209","2022","Palestinian","Jordan","f_minor_all",285966
+"210","2022","Palestinian","Jordan","m_minor_all",300571
+"211","2022","Palestinian","Lebanon","female_0-4",11093
+"212","2022","Palestinian","Lebanon","female_5-11",21290
+"213","2022","Palestinian","Lebanon","female_12-17",19168
+"214","2022","Palestinian","Lebanon","female_18-59",142095
+"215","2022","Palestinian","Lebanon","female_60",46663
+"216","2022","Palestinian","Lebanon","female_total",240309
+"217","2022","Palestinian","Lebanon","male_0-4",11708
+"218","2022","Palestinian","Lebanon","male_5-11",22526
+"219","2022","Palestinian","Lebanon","male_12-17",20360
+"220","2022","Palestinian","Lebanon","male_18-59",146815
+"221","2022","Palestinian","Lebanon","male_60",45564
+"222","2022","Palestinian","Lebanon","male_total",246973
+"223","2022","Palestinian","Lebanon","total",487282
+"224","2022","Palestinian","Lebanon","f_minor_all",51551
+"225","2022","Palestinian","Lebanon","m_minor_all",54594
+"226","2022","Palestinian","Syrian Arab Rep.","female_0-4",18133
+"227","2022","Palestinian","Syrian Arab Rep.","female_5-11",33009
+"228","2022","Palestinian","Syrian Arab Rep.","female_12-17",33771
+"229","2022","Palestinian","Syrian Arab Rep.","female_18-59",162300
+"230","2022","Palestinian","Syrian Arab Rep.","female_60",43485
+"231","2022","Palestinian","Syrian Arab Rep.","female_total",290698
+"232","2022","Palestinian","Syrian Arab Rep.","male_0-4",18709
+"233","2022","Palestinian","Syrian Arab Rep.","male_5-11",34661
+"234","2022","Palestinian","Syrian Arab Rep.","male_12-17",35191
+"235","2022","Palestinian","Syrian Arab Rep.","male_18-59",164228
+"236","2022","Palestinian","Syrian Arab Rep.","male_60",37236
+"237","2022","Palestinian","Syrian Arab Rep.","male_total",290025
+"238","2022","Palestinian","Syrian Arab Rep.","total",580723
+"239","2022","Palestinian","Syrian Arab Rep.","f_minor_all",84913
+"240","2022","Palestinian","Syrian Arab Rep.","m_minor_all",88561
+"241","2023","Palestinian","State of Palestine","female_0-4",104632
+"242","2023","Palestinian","State of Palestine","female_5-11",178447
+"243","2023","Palestinian","State of Palestine","female_12-17",152950
+"244","2023","Palestinian","State of Palestine","female_18-59",648792
+"245","2023","Palestinian","State of Palestine","female_60",148503
+"246","2023","Palestinian","State of Palestine","female_total",1233324
+"247","2023","Palestinian","State of Palestine","male_0-4",111357
+"248","2023","Palestinian","State of Palestine","male_5-11",188384
+"249","2023","Palestinian","State of Palestine","male_12-17",159770
+"250","2023","Palestinian","State of Palestine","male_18-59",672616
+"251","2023","Palestinian","State of Palestine","male_60",131243
+"252","2023","Palestinian","State of Palestine","male_total",1263370
+"253","2023","Palestinian","State of Palestine","total",2496694
+"254","2023","Palestinian","State of Palestine","f_minor_all",436029
+"255","2023","Palestinian","State of Palestine","m_minor_all",459511
+"256","2023","Palestinian","Jordan","female_0-4",38871
+"257","2023","Palestinian","Jordan","female_5-11",109845
+"258","2023","Palestinian","Jordan","female_12-17",129304
+"259","2023","Palestinian","Jordan","female_18-59",709550
+"260","2023","Palestinian","Jordan","female_60",182547
+"261","2023","Palestinian","Jordan","female_total",1170117
+"262","2023","Palestinian","Jordan","male_0-4",41415
+"263","2023","Palestinian","Jordan","male_5-11",115346
+"264","2023","Palestinian","Jordan","male_12-17",135901
+"265","2023","Palestinian","Jordan","male_18-59",741796
+"266","2023","Palestinian","Jordan","male_60",187956
+"267","2023","Palestinian","Jordan","male_total",1222414
+"268","2023","Palestinian","Jordan","total",2392531
+"269","2023","Palestinian","Jordan","f_minor_all",278020
+"270","2023","Palestinian","Jordan","m_minor_all",292662
+"271","2023","Palestinian","Lebanon","female_0-4",10852
+"272","2023","Palestinian","Lebanon","female_5-11",21147
+"273","2023","Palestinian","Lebanon","female_12-17",19453
+"274","2023","Palestinian","Lebanon","female_18-59",142267
+"275","2023","Palestinian","Lebanon","female_60",49304
+"276","2023","Palestinian","Lebanon","female_total",243023
+"277","2023","Palestinian","Lebanon","male_0-4",11413
+"278","2023","Palestinian","Lebanon","male_5-11",22558
+"279","2023","Palestinian","Lebanon","male_12-17",20619
+"280","2023","Palestinian","Lebanon","male_18-59",146929
+"281","2023","Palestinian","Lebanon","male_60",48291
+"282","2023","Palestinian","Lebanon","male_total",249810
+"283","2023","Palestinian","Lebanon","total",492833
+"284","2023","Palestinian","Lebanon","f_minor_all",51452
+"285","2023","Palestinian","Lebanon","m_minor_all",54590
+"286","2023","Palestinian","Syrian Arab Rep.","female_0-4",16964
+"287","2023","Palestinian","Syrian Arab Rep.","female_5-11",32028
+"288","2023","Palestinian","Syrian Arab Rep.","female_12-17",34270
+"289","2023","Palestinian","Syrian Arab Rep.","female_18-59",164719
+"290","2023","Palestinian","Syrian Arab Rep.","female_60",45931
+"291","2023","Palestinian","Syrian Arab Rep.","female_total",293912
+"292","2023","Palestinian","Syrian Arab Rep.","male_0-4",17274
+"293","2023","Palestinian","Syrian Arab Rep.","male_5-11",33396
+"294","2023","Palestinian","Syrian Arab Rep.","male_12-17",35867
+"295","2023","Palestinian","Syrian Arab Rep.","male_18-59",166821
+"296","2023","Palestinian","Syrian Arab Rep.","male_60",39308
+"297","2023","Palestinian","Syrian Arab Rep.","male_total",292666
+"298","2023","Palestinian","Syrian Arab Rep.","total",586578
+"299","2023","Palestinian","Syrian Arab Rep.","f_minor_all",83262
+"300","2023","Palestinian","Syrian Arab Rep.","m_minor_all",86537

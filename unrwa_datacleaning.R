@@ -54,4 +54,17 @@ unrwaClean_long <- unrwaClean %>%
 )
 
 #saving csv
-write.csv(unrwaClean_long, "unrwaCleanLong.csv")
+write.csv(unrwaClean_long, "unrwaDEMO_CleanLong.csv")
+
+## Cleaning data for IDMC 
+
+idmcFull <- read_csv("idmc_new_displacements.csv")
+
+#taking out first row 
+idmcClean <- idmcFull %>%
+  filter(!is.na(new_displacement_rounded)) %>%
+  mutate_at(c("year", "new_displacement", "new_displacement_rounded", "total_displacement", "total_displacement_rounded"), as.numeric)
+
+#saving csv 
+write.csv(idmcClean, "idmcClean.csv")
+
