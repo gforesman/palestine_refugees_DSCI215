@@ -1,6 +1,6 @@
 library(tidyverse)
 
-unrwaFull <- read_csv("unrwa_demo.csv")
+unrwaFull <- read_csv("C:/Users/gmfor/OneDrive - brynmawr.edu/Spring 2025/Data Science Feminism/palestine_refugees_DSCI215/datasets/unrwa_demo.csv")
 
 unrwaClean <- unrwaFull %>%
   filter(!is.na(Year))
@@ -61,7 +61,7 @@ write.csv(unrwaClean_long, "unrwaDEMO_CleanLong.csv")
 
 ## Cleaning data for IDMC 
 
-idmcFull <- read_csv("idmc_new_displacements.csv")
+idmcFull <- read_csv("C:/Users/gmfor/OneDrive - brynmawr.edu/Spring 2025/Data Science Feminism/palestine_refugees_DSCI215/datasets/idmc_new_displacements.csv")
 
 #taking out first row 
 idmcClean <- idmcFull %>%
